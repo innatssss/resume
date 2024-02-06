@@ -1,0 +1,42 @@
+* {
+  font-family: "Roboto", sans-serif;
+  background-color: #a3b18a;
+}
+
+header {
+  margin-left: 40px;
+}
+
+#contact {
+  margin-left: 40px;
+}
+
+a[href] {
+  color: #3a5a40;
+}
+
+fieldset {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+ul.circle {
+  list-style-type: circle;
+}
+
+ul.disc {
+  list-style-type: disc;
+}
+
+aside {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #344e41;
+  font-style: italic;
+}
+
+footer p {
+  text-decoration: underline;
+}
